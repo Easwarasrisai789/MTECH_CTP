@@ -1,4 +1,4 @@
-# Program 4 — List vs Generator Processing
+# Program 4 — List vs Generator Processing 
 
 ## 1. Problem Statement
 
