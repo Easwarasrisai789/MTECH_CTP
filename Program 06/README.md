@@ -1,4 +1,4 @@
-# Program 6 — Dataclass vs Traditional Class
+# Program 6 — Dataclass vs Traditional Class 
 
 ## 1. Problem Statement
 
