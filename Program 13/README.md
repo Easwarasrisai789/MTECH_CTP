@@ -5,7 +5,7 @@ Implement a Python program using specification-first, type-driven and test-first
 
 ## 2. Algorithm / Concept Identification
 | Item | Details |
-|---|---|
+|---|---| 
 | Topic | Specification-first + type-driven + test-first |
 | Application | User Service |
 | Type system | Type hints and dataclass |
